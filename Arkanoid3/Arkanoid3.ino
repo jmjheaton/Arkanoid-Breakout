@@ -3,8 +3,8 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "NETGEAR04";
-const char* password = "icypiano224";
+const char* ssid = "NETWORK";
+const char* password = "password";
 
 const char* ntpServer = "pool.ntp.org";
 const int ntpPort = 123;
